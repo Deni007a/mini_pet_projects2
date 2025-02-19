@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+}
+
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+nav {
+    padding: 0 1rem;
+}
+
+.content {
+    min-height: calc(100vh - 70px - 64px);
+    padding: 1.5rem 0;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+
+}
+.react-datepicker{
+    margin: 0 auto;
+}
+.entering-tasks{
+    background-color: #F8F7E3FF;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    white-space: normal; /* Позволяет перенос строк */
+    overflow-wrap: break-word; /* Переносит длинные слова */
+}
+.collection-item{
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+}
+.task-text{
+        white-space: normal;
+        word-break: break-word;
+        flex: 1;
+        min-width: 0;
+        margin: 1rem;
+}
+.myBtn{
+    margin: 0 0 0.5rem 0.5rem;
+}
+
+
+
