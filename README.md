@@ -3,7 +3,7 @@
 Проект представляет собой сервис,
 позволяющий строить диаграммы онлайн.
 
-ссылка на деплой [https://deni007a.github.io/mini_pet_projects2/chart-project/](https://deni007a.github.io/mini_pet_projects/)
+ссылка на деплой https://deni007a.github.io/mini_pet_projects2/chart-project/
 <details>
  <summary>описание</summary>
 Сервис должен строить диаграммы
@@ -21,7 +21,7 @@
 
 ## Проект планировщика 
 
-ссылка на деплой [https://deni007a.github.io/mini_pet_projects2/daily-organizer/](https://deni007a.github.io/mini_pet_projects2/daily-organizer/)
+ссылка на деплой https://deni007a.github.io/mini_pet_projects2/daily-organizer/
 
 Проект представляет собой органайзер, с помощью которого можно планировать дела по дням. 
 
