@@ -39,6 +39,17 @@
 используются библиотеки react-datepicker https://github.com/Hacker0x01/react-datepicker
 </details>
 
+### Калькулятор квадратных уравнений
 
+
+ссылка на деплой https://deni007a.github.io/mini_pet_projects2/equation_calculator/
+
+<details>
+ <summary>описание</summary>
+Калькулятор квадратных уравнений решает двумя способами   
+
+1. Теорема Виета
+2. Дискриминант
+</details>
 
 
